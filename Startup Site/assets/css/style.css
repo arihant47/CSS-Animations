@@ -1,5 +1,4 @@
 /*General Styles*/
-
 * {
 	margin: 0;
 	padding: 0;
@@ -175,7 +174,6 @@ header nav li {
 }
 
 /*Packages Section*/
-
 .packages .grid li {
 	padding: 50px;
 	flex-basis: 50%;
@@ -192,7 +190,6 @@ header nav li {
 }
 
 /*Testimonials Section*/
-
 .testimonials .quote {
 	font-size: 22px;
 	font-weight: 300;
